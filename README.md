@@ -24,6 +24,5 @@ CIFAR-100数据集在ResNet-18模型上并且使用ImageNet数据集上采用监
 
 
 
-数据权重地址链接：https://pan.baidu.com/s/1LkTwrc3oBAumkz4ZreygDQ?pwd=dew5 
-
-提取码：dew5
+数据权重地址链接：https://pan.baidu.com/s/1XlnPHkNqy7Znr07sjxQLPw
+提取码：pu7m
